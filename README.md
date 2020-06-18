@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/binary-com/binary-bot.svg?branch=master)](https://travis-ci.org/binary-com/binary-bot)
 [![Coverage Status](https://coveralls.io/repos/github/binary-com/binary-bot/badge.svg?branch=master)](https://coveralls.io/github/binary-com/binary-bot?branch=master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fbinary-bot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fbinary-bot?ref=badge_shield)
 
 # Binary Bot
 
@@ -75,3 +76,7 @@ You can find some example blocks in the [`Examples`](/examples) folder.
 **Disclaimer**: _All the files and codes in the above links are intended for educational and informational purposes only. They should not be construed as giving investment advice, and you should not rely on them as your singular factor in making or refraining from making any investment decisions. Binary.com accepts no liability whatsoever for any losses incurred by users in their trading. Binary options trading may incur losses as well as gains._
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fbinary-bot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fbinary-bot?ref=badge_large)
